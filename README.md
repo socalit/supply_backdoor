@@ -62,7 +62,7 @@ Run `setup_backdoor_eeprom.ino` first to set EEPROM values:
 - Superuser: `superuser / password: h@rdcoded`
 - Admin: `admin / password: 1234`
 
-## 🔑 Superuser-Only Commands
+## Superuser-Only Commands
 
 The following commands are **exclusive to superuser access** and are not available to regular admin users:
 
