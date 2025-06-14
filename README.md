@@ -15,7 +15,7 @@ It highlights how a backdoor could be discreetly installed and triggered by know
 -  Simulated CLI with:
   - Cisco commands: `show version`, `show interfaces`, `show running-config`, `ping`, `traceroute`, `copy running-config tftp`, `reload`
   - MikroTik-style commands: `interface print`, `export`, `/tool ping`, `/tool traceroute`
--  LED "L" indicator lights up when superuser is logged in
+-  LED "L" indicator lights up when superuser is logged in  (D13)
 -  Simulates router shell environment using Serial Monitor
 
 ## Demonstrated Threat Vectors
