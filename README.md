@@ -1,7 +1,7 @@
 # supply_backdoor
 
 A proof-of-concept (PoC) firmware backdoor simulation using an Arduino Nano. This project is designed to demonstrate how embedded device supply chain attacks could be used to implant hidden backdoors at the firmware level.
-
+![Supply Chain Backdoor Demo](demo/supply_chain_attack.png)
 ## Overview
 
 This sketch emulates a router CLI (command-line interface) that includes a hidden login mechanism with EEPROM-stored credentials. Once logged in as a superuser, the device simulates familiar router environments such as Cisco IOS and MikroTik RouterOS with mock commands and outputs.
