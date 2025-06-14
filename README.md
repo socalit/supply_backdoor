@@ -81,7 +81,6 @@ Admin users are limited to basic `show version`, `show interfaces`, and `ping`.
 
 - `supply_backdoor.ino` – Main backdoor simulation
 - `setup_backdoor_eeprom.ino` – EEPROM initializer for credentials
-- `supply_backdoor_fixed.txt` – Text version of main sketch
 
 ## Educational Use Only
 
