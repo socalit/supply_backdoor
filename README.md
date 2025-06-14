@@ -1,6 +1,8 @@
 # supply_backdoor
 
 A proof-of-concept (PoC) firmware backdoor simulation using an Arduino Nano. This project is designed to demonstrate how embedded device supply chain attacks could be used to implant hidden backdoors at the firmware level.
+
+
 ![Supply Chain Backdoor Demo](demo/supply_chain_attack.png)
 ## Overview
 
